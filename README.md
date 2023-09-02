@@ -1,4 +1,4 @@
-### Hi there I'm Samy Rahim 👋
+## Hi there I'm Samy Rahim 👋
 ### A 3rd year CS student in ESTIN Bejaya, Algeria
   
 - 🔭 I’m currently working on the SURVISION mobile app 
