@@ -1,5 +1,5 @@
 ### Hi there I'm Samy Rahim 👋
-### A 2nd year CS student in ESTIN Bejaya, Algeria
+### A 3rd year CS student in ESTIN Bejaya, Algeria
   
 - 🔭 I’m currently working on the SURVISION mobile app 
 - 🌱 I’m currently learning NextJS, swr, Django...
