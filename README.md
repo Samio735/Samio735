@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning NextJS, swr, Django...
 - 👯 I’m looking to collaborate on Innovative ideas for websites and apps
 - 🤔 I’m looking for help with finiding people that have simmilar skills/interests
-- 📫 How to reach me: [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-rahim/) 
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-rahim/) 
+
   
 
 # 💻 Tech Stack:
