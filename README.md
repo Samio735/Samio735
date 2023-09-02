@@ -32,3 +32,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
 
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=samio735&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
