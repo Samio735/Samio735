@@ -8,9 +8,9 @@
 - 📫 How to reach me: Samirahim7 on linkedin 😉
   
 My skills include :
-- Design: Graphic design, UI/UX,
-- Frontend: HTML, CSS, JS, React, Next, tailwind.
-- Backend: Django, Flask.
-- Databases: MySQL, Postgres.
+- 🎨 Design: Graphic design, UI/UX,
+- ⚛️ Frontend: HTML, CSS, JS, React, Next, tailwind.
+- 🌶️ Backend: Django, Flask.
+- 🐘 Databases: MySQL, Postgres.
 
 
