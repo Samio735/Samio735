@@ -1,8 +1,8 @@
 ## Hi there I'm Samy Rahim 👋
 ### A 3rd year CS student in ESTIN Bejaya, Algeria
   
-- 🔭 I’m currently working on the SURVISION mobile app 
-- 🌱 I’m currently learning NextJS, swr, Django...
+- 🔭 I’m currently working on an e-commerce chatbot for facebook and instagram pages
+- 🌱 I’m currently learning Agentic AI development...
 - 👯 I’m looking to collaborate on Innovative ideas for websites and apps
 - 🤔 I’m looking for help with finiding people that have simmilar skills/interests
 
