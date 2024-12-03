@@ -1,12 +1,6 @@
-## Hi there I'm Samy Rahim 👋
-### A 3rd year CS student in ESTIN Bejaya, Algeria
+## Hi there I'm Samy Rahim  A full stack AI solution developer👋
   
-- 🔭 I’m currently working on an e-commerce chatbot for facebook and instagram pages
-- 🌱 I’m currently learning Agentic AI development...
-- 👯 I’m looking to collaborate on Innovative ideas for websites and apps
-- 🤔 I’m looking for help with finiding people that have simmilar skills/interests
-
-
+I love crafting cutting-edge AI solutions that drive business transformation. With a track record of developing intelligent systems for international clients, I turn AI potential into measurable business value.
   
 
 # 💻 Tech Stack:
